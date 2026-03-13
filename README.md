@@ -11,7 +11,7 @@
 
 **Upload any medical report PDF. Get instant AI-powered clinical insights, diagnosis analysis, risk identification, patient timelines, and multi-report comparisons.**
 
-[Live Demo](#) · [Report Bug](https://github.com/siddhantchandorkar752-ai/SynthMed/issues)
+[Live Demo](https://synthmed-siddhantchandorkar.streamlit.app/) · [Report Bug](https://github.com/siddhantchandorkar752-ai/SynthMed/issues)
 
 </div>
 
